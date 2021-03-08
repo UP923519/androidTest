@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Save the Plane</string>
+    <string name="preClick">Welcome to the game </string>
+    <string name="instuctionText">Read the information and then choose an option below. Press
+    Help for more instructions and information.</string>
+    <string name="clickedButton">You clicked the button</string>
+    <string name="button1text">Option 1</string>
+    <string name="button2text">Option 2</string>
+    <string name="button3text">Option 3</string>
+    <string name="getDescription"></string>
+    <string name="getOption1"></string>
+    <string name="getOption2"></string>
+    <string name="getOption3"></string>
+    <string name="beginButton">Reset</string>
+    <string name="fullInstructions">Help</string>
+    <string name="instructionsString">Instructions</string>
+    <string name="instructionsContent1">You are on a flight when disaster strikes. An explosion in
+    an engine causes deadly gasses to be released into the cockpit through the air ventilation
+    system. The pilots and crew switch off the air vents, but it is too late - they are dead. You
+    are now in charge of landing the plane safely and saving all the passengers. </string>
+    <string name="instructionsContent2">To play the game: read the description and then choose an
+    option. There are up to 3 choices for each question. When the game ends, either through success
+    or failure, it will reset so you can play again and choose different answers. If you want to
+    start again before the game has finished, press the reset button.</string>
+
+</resources>

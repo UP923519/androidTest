@@ -1,0 +1,42 @@
+
+0,16,14,1,Engine 2 (right) explodes,,Immediately shut it down,Take no action and wait for a while to see if there is damage to the aircraft,Rush into the cabin to look out of the window to check the damage
+1,24,27,40,The passengers are panicked as you rush into the cabin to look outside. ,,Announce to the passengers that 'we are all doomed'.,Ignore them,Try to calm them down
+2,3,3,3,You feel the plane starting to tilt dangerously. You try to rush back to the cockpit to gain control.,-,-,-,-
+3,4,4,4,You are blocked by passengers who are scared and panicking.,-,-,-,-
+4,28,5,1,You eventually get back to the front of the plane but as the plane tilts the cockpit door slams shut in front of you and appears to be locked shut.,,Try to force open the door,search for a key,Ask passengers to help open it
+5,6,6,6,Luckily after a while of searching you accidently find a key left at the back of the aircraft by the maintenance crew,-,-,-,-
+6,7,7,7,You have regained access to the cockpit and continue flying the aircraft.,-,-,-,-
+7,34,8,9,Some passengers report that a piece of the wing has detached and fuel is leaking. The plane begins to shake violently.,,Deploy the landing gear,Fully deploy the flaps,Increase engines to max power
+8,33,35,9,The aircraft slows down sharply and is alarmingly unstable.,,Attempt to ditch into a field.,Deploy the aircraft spoilers.,Max power
+9,10,10,10,The shaking stops but the engines burn through the last of the fuel and shut down. The airport is now gliding without engine power.,-,-,-,-
+10,37,36,11,You look left outside the cockpit window. A military fighter jet is approaching alongside.,,Wave at the pilot from the window.,Steer sharply away and hope it goes away.,Try to tune the radio and listen for messages.
+11,12,38,11,You hear a message on the radio from the pilot requesting that you follow their instructions immediately.,,Follow the Instructions,Ignore them,-
+12,39,38,13,The fighter pilot tells you what to control and guides you to an airport. But your altitude and speed are dropping continuously. Will you make it there in time?,,Panic and press every control,Give up and do nothing.,Continue calmly following instructions.
+13,0,0,0,You land safely at the airport and save all the pasengers.,-,-,-,-
+14,15,15,15,You continue to fly for 15 minutes. But suddenly there is a loud bang and you lose all control of the steering,-,-,-,-
+15,0,0,0,You wrestle with the steering but lose control of the aircraft. The plane crashes into the ground.,-,-,-,-
+16,17,17,17,Situation seems under control...,-,-,-,-
+17,21,18,18,Passengers report fuel spraying out but you can't see where it's coming from.,,Cut off fuel from the damaged engine.,Cut off the fuel supply from the working engine.,Cut off the fuel supply to both engines.
+18,22,19,18,You made the right choice - the fuel line from the working engine was damaged in the explosion. The fuel leak stops but the engines shut down without fuel.,,Restart the engines by reconnecting the fuel,Continue flying for as long as possible.,-
+19,23,20,15,Another aircraft is heading directly towards you.,,Try to contact the other aircraft on the radio.,Assume the other pilot will be able to avoid you.,Quickly try to steer away.
+20,10,10,10,The skilled and experienced crew narrowly miss the aircraft. You continue flying the aircraft.,-,-,-,-
+21,22,22,22,Fuel continues to spray. It appears the fuel line to the working engine was damaged in the explosion.,-,-,-,-
+22,0,0,0,Fuel quickly ignites from the heat of the engine and the aircraft suddenly blows up.,-,-,-,-
+23,19,19,19,You try to radio but can't seem to find the correct frequency. Try again.,-,-,-,-
+24,25,29,24,Passengers lose confidence in you and storm the cockpit locking you out.,,Let them take over the plane.,Try to calm them down and regain access.,-
+25,26,26,26,They are unable to control the aircraft and it begins to descend.,-,-,-,-
+26,0,0,0,After a few minutes the plane crashes into the ground and explodes on impact.,-,-,-,-
+27,2,2,2,Out of the window you see a huge fire in the engine.,-,-,-,-
+28,0,0,0,You are unable to get in. The plane keeps rolling and eventually flips over.You go unconscious due to the high G forces and the plane crashes.,-,-,-,-
+29,31,30,33,After a long time trying to convince them you are let back in - but by now the fire from the explosion is uncontrollable.,,Head towards the sea and try to land.,Fly for as long as possible.,Attempt emergency landing in a field.
+30,0,0,0,You fly for a while but then the plane breaks up due to structural damage.,-,-,-,-
+31,32,33,31,Try to land but the sea is rough and stormy.,,Continue,Abort,-
+32,0,0,0,The plane breaks up on impact.,-,-,-,-
+33,0,0,0,Field is unsuitable for landing. You crash land - there are few survivors.,-,-,-,-
+34,33,33,33,Due to excessive speed the gear rips off and crash into a field,-,-,-,-
+35,0,0,0,The aircraft suddenly stalls and plummets to the ground breaking up before it hits the ground.,-,-,-,-
+36,10,10,10,The fighter jet follows you in every direction. Try again...,-,-,-,-
+37,38,11,38,The fighter pilot does not wave back. You notice the jet is armed with missiles.,,Try to fly into the jet to crash it out of the sky.,Change your mind and tune the radio.,Ignore the fighter jet and continue gliding the plane.
+38,0,0,0,You are nearing a highly populated area. Despite many warnings you ignore all instructions. You are eventually shot down to prevent ground casualties in the city.,-,-,-,-
+39,0,0,0,You press all the controls in front of you in the hope that somehow the plane will land itself. Unfortunately it doesn't. The plane dives into the gound and explodes..,-,-,-,-
+40,2,2,2,You try to calm the passengers but no one is at the controls to the plane.,-,-,-,-
