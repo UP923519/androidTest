@@ -23,6 +23,5 @@ public class FirstUIScreen extends AppCompatActivity {
         return super.getParentActivityIntent().addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
     }
 
-
-
+    //s
 }
